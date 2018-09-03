@@ -1,0 +1,33 @@
+
+
+
+.block-header{
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+img{
+    float: left;
+    padding: 20px;
+}
+
+p{
+    text-indent: 50px;
+}
+
+.footer {
+	
+
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+	border-top: solid #4aaaa5 10px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.img-thumbnail {
+    border: 0;
+    padding: 60px;
+ 
+    }
